@@ -33,14 +33,14 @@ kramdown:
 ####################################
 #
 owner:
-  name: Fred
+  name: Fred Li
   avatar: fred-logo.jpg
-  job: "An open source community manager and weight lifter."
+  job: "Software Engineer"
   bio: "An open source community manager and weight lifter."
   email:
   disqus-shortname:
-  # twitter: @liyongle #username
-  #facebook: #username
+  twitter: yongle.li@gmail.com #username
+  facebook: yongle.li@gmail.com #username
   google:
     plus: #username
     analytics:
