@@ -1,16 +1,16 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
-- name: Google
-  link: http://www.google.com/
-  date: July 2017 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
-  job: Programming Internship
+- name: Huawei
+  link: http://www.huawei.com/
+  date: July 2002 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
+  job: Open Source Ecosystem Department Director
 
-- name: Facebook
-  link: http://www.facebook.com/
-  date: May 2014 - July 2017
-  job: Web Assistant
+- name: OpenStack
+  link: http://www.openstack.org/
+  date: July 2019 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
+  job: Board of Director
 
-- name: SAP
-  link: https://www.sap.com/
-  date: 2010 - 2014
-  job: Software Developer
+- name: openEuler Community
+  link: https://openeuler.org/
+  date: September 2019 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
+  job: Co-Founder
