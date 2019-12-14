@@ -39,8 +39,8 @@ owner:
   bio: "An open source community manager and weight lifter."
   email:
   disqus-shortname:
-  twitter: yongle.li@gmail.com #username
-  facebook: yongle.li@gmail.com #username
+  twitter: liyongle #username
+  facebook: liyongle #username
   google:
     plus: #username
     analytics:
@@ -51,7 +51,7 @@ owner:
   github: liyongle  #username
   #gitlab: #username
   #stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  #linkedin: #username
+  linkedin: 永乐-李-212bb3110 #username
   #skype: #username
   #xing: #username
   #instagram: #username
