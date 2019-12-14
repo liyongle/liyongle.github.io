@@ -33,13 +33,13 @@ kramdown:
 ####################################
 #
 owner:
-  name: Leonids
-  avatar: leonids-logo.png
-  job: "A jekyll theme"
-  bio: "A simple and awesome blog theme powered by jekyll."
+  name: Fred
+  avatar: fred-logo.jpg
+  job: "An open source community manager and weight lifter."
+  bio: "An open source community manager and weight lifter."
   email:
   disqus-shortname:
-  twitter: #username
+  twitter: @liyongle #username
   facebook: #username
   google:
     plus: #username
