@@ -1,3 +1,12 @@
+---
+layout: post
+title: Coding with VS Code on WSL
+excerpt: "How to code with VS Code and WSL on Windows 10."
+categories: [code]
+modified: 2019-12-11
+comments: true
+---
+
 # Coding with VS Code on WSL
 
 ## Install WSL on Company Laptop
