@@ -11,7 +11,7 @@ image:
 
 # Coding with VS Code on WSL
 
-![VS Code and WSL](img/2019-12-11.png)
+![](img/2019-12-11.png)
 
 ## Install WSL on Company Laptop
 
