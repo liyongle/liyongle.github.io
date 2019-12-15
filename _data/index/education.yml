@@ -1,8 +1,9 @@
-- name: Massachusets Instutite of Technology
-  link: http://web.mit.edu/
-  date: 2011 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
-  descr: <br> (expected graduation in 2019)
+- name: Xi'an Jiaotong University 西安交通大学
+  link: http://www.xjtu.edu.cn/
+  date: 1999 - 2002
+  descr: <br> (Master)
 
-- name: Harvard
-  link: http://www.harvard.edu/
-  date: 2007 - 2011
+- name: Xi'an Jiaotong University 西安交通大学
+  link: http://www.xjtu.edu.cn/
+  date: 1999 - 2002
+  descr: Bachelor
