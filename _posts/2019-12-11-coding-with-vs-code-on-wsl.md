@@ -6,12 +6,12 @@ categories: [code]
 modified: 2019-12-11
 comments: true
 image:
-  feature: img/2019-12-11.png
+  feature: /img/2019-12-11.png
 ---
 
 # Coding with VS Code on WSL
 
-![](img/2019-12-11.png)
+![](/img/2019-12-11.png)
 
 ## Install WSL on Company Laptop
 
