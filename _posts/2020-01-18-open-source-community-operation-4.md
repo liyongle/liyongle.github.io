@@ -11,9 +11,7 @@ comments: true
 
 Around one week after [openEuler](https://openeuler.org) was opened, [It's FOSS](https://itsfoss.com/) reported [Huawei’s Linux Distribution openEuler is Available Now!](https://itsfoss.com/openeuler/). Then I checked the blog, and found one interesting [comment](https://itsfoss.com/openeuler/#comments/329624). 
 
-```
-no, I don’t want to use anything from huawei. for those think they are harmless because you are not american, think about how chinese robbed european and japanese high speed technology and claimed as their own.
-```
+>no, I don’t want to use anything from huawei. for those think they are harmless because you are not american, think about how chinese robbed european and japanese high speed technology and claimed as their own.
 
 I am not sensitive to politics. I don't sensitive to some statement like Chinese is bad because 
 
@@ -38,13 +36,13 @@ And, when I met the following cases this week, I have to accept that *stealing* 
 When I read [this](https://gitee.com/open_euler/dashboard/issues?id=I18FZD), I didn't know what to say for a while.
 
 > the src/json package seems to be based on https://github.com/containers/libocispec. In particular on the https://github.com/containers/libocispec/blob/master/src/generate.py file.
-
+>
 > The generate.py file from libocispec is distributed under the GPLv3 license.
-
+>
 >The original copyright was dropped and the derivative source switched to use the Mulan PSL v1 license.
-
+>
 > The GPLv3 license doesn't allow that.
-
+>
 > As author of libocispec, I am interested in the improvements you've done.
 
 Nothing to say, it is licese usage issue, nothing more, nothing less. I hope so.
