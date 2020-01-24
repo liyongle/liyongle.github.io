@@ -2,7 +2,7 @@
 layout: post
 title: 【社区运营思考系列1】软件开源，动了谁的蛋糕？
 excerpt: "开源软件社区运营话题很大，我的认识也很浅薄，边学边做边总结思考"
-categories: [management]
+categories: [Open Source]
 modified: 2019-12-14
 comments: true
 ---
