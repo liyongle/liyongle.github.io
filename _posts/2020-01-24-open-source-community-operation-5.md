@@ -10,7 +10,7 @@ comments: true
 
 ## [English version](#1) | [中文版本](#2)
 
-## <h2 id="1">English</h2>
+<h2 id="1">English</h2>
 
 ### A boss asked, who is stronger in open source?
 
@@ -104,7 +104,7 @@ I believe that some readers are wondering why commercial companies contribute in
 
 
 
-## <h2 id="2">中文版</h2>
+<h2 id="2">中文版</h2>
 
 *我是先写的英文版，再用翻译工具翻译成英文再改的，写双语挺烦躁的，原来中文版内容的粗糙，和英文版内容的简单，我能力实在有限*
 
