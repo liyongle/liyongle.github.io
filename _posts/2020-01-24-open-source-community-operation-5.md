@@ -58,11 +58,11 @@ Once you adopt open source software to your solution, you have to think about th
 
    1. Lifecycle. the OSS (open source software) lifecycle does seldom cover your solution/product/service lifecycle.
 
-    2. Bugs management. If the OSS has a bug, how can you get the information and update, and how will you fix it in your software and update it to your customers. 
+   2. Bugs management. If the OSS has a bug, how can you get the information and update, and how will you fix it in your software and update it to your customers. 
 
-    3. Security issues management. The same and even more important than bugs.
+   3. Security issues management. The same and even more important than bugs.
 
-    4. First of first, you are responsible for the offers to your customer, not the OSS authors.
+   4. First of first, you are responsible for the offers to your customer, not the OSS authors.
 
 Watch the video I recommend above to understand the whole picture and the complexity. 
 
