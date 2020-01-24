@@ -3,6 +3,7 @@ layout: post
 title: Coding with VS Code on WSL
 excerpt: "How to code with VS Code and WSL on Windows 10."
 categories: [code]
+tags: [WSL, Linx, VS Code, Microsoft]
 modified: 2019-12-11
 comments: true
 image:

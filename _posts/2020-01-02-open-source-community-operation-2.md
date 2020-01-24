@@ -3,6 +3,7 @@ layout: post
 title: 【社区运营思考系列2】openEuler社区开源感言
 excerpt: "openEuler社区上线后的48小时"
 categories: [management]
+tags: [Open Source, Culture, Mindset]
 modified: 2020-01-02
 comments: true
 ---

@@ -3,6 +3,7 @@ layout: post
 title: Community Operation (5) - Who is stronger open source contributor?
 excerpt: "A repy to such question from your manager like who is stronger open source contributor. 回答主管问的谁在开源领域贡献更大的问题"
 categories: [Open Source Community]
+tags: [Open Source, Culture, Mindset]
 modified: 2020-01-24
 comments: true
 ---

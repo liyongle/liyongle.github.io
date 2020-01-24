@@ -3,6 +3,7 @@ layout: post
 title: Community Operation (4) - Are we really thieves?
 excerpt: "From time to time, someone in the world say Chinese robbed the high tech, and Huawei robbed the high tech. Is it true? And why?"
 categories: [Open Source Community]
+tags: [Open Source, Culture, Mindset]
 modified: 2020-01-18
 comments: true
 ---

@@ -3,6 +3,7 @@ layout: post
 title: 【社区运营思考系列3】看起来反商业逻辑的开源，为什么生命力这样持久？
 excerpt: "开源是情怀、是政治、还是商业？"
 categories: [Open Source Community]
+tags: [Open Source, Culture, Mindset]
 modified: 2020-01-10
 comments: true
 ---
