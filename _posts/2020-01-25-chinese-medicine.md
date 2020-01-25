@@ -2,7 +2,7 @@
 layout: post
 title: 从新型冠状病毒事件中流传的中医药方聊聊思维方式
 excerpt: "中医是个很神奇的存在，从中医个名称开始就很神奇，我试着解析一下自己对中医（主要是思维模式）的理解。"
-categories: [Science]]
+categories: [Science]
 tags: [Chinese Medicine, Mindset]
 modified: 2020-01-25
 comments: true
