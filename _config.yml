@@ -38,7 +38,7 @@ owner:
   job: "Open Source Player"
   bio: "An open source community manager and weight lifter."
   email:
-  disqus-shortname:
+  # disqus-shortname:
   twitter: liyongle #username
   facebook: liyongle #username
   #google:
