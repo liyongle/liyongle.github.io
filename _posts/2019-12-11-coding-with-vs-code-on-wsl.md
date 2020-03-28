@@ -12,7 +12,7 @@ image:
 
 # Coding with VS Code on WSL
 
-![](/img/2019-12-11.png)
+<img src="./img/2019-12-11.png" width="100%" style="max-width:1079px" />
 
 ## Install WSL on Company Laptop
 
@@ -59,4 +59,4 @@ vim ~/.gitconfig
 
 ## Config VS Code and WSL
 
-Please refer to https://code.visualstudio.com/docs/remote/wsl. 
+Please refer to <https://code.visualstudio.com/docs/remote/wsl>. 
