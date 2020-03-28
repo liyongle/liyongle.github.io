@@ -12,7 +12,7 @@ image:
 
 # Coding with VS Code on WSL
 
-<img src="./img/2019-12-11.png" width="100%" style="max-width:1079px" />
+<img src="../../img/2019-12-11.png" width="100%" style="max-width:1079px" />
 
 ## Install WSL on Company Laptop
 
