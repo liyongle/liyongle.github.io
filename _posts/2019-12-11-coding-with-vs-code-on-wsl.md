@@ -7,7 +7,7 @@ tags: [WSL, Linx, VS Code, Microsoft]
 modified: 2019-12-11
 comments: true
 image:
-  feature: /img/2019-12-11.png
+  feature: 2019-12-11.png
 ---
 
 # Coding with VS Code on WSL
