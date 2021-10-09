@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 做个周报，让自己更踏实【给娃的周报-1】
-excerpt: "用\“给娃\”的名义，给自己思考和记录的动力，为了自己更好"
+title: 【给娃的周报-1】做个周报，让自己更踏实
+excerpt: "用给娃的名义，给自己思考和记录的动力，为了自己更好"
 categories: [life]
 tags: [philosophy]
 modified: 2021-09-20
