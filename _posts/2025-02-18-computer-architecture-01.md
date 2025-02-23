@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Computer Architecutre][1] How Chipsets are designed and manufactured
+title: ()Computer Architecutre)(1) How Chipsets are designed and manufactured
 excerpt: "Memo during learning computer architecture in a questions driven way, and trying to figrue out why it is expensive."
 categories: [Technology]
 tags: [Computer]
